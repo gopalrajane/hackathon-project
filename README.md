@@ -69,7 +69,6 @@ Generates usable predictions for off-road understanding
 
 
 1. Setup account and download offline data
-Ensure your Linux environment (Kali/Ubuntu) has the necessary runtime:
 
 Set a account
 https://falcon.duality.ai/auth/sign-up?utm_source=hackathon&utm_medium=instructions&utm_campaign=HacktheNight
