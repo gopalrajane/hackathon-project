@@ -1,0 +1,15 @@
+🛠️ Tools & Technologies Used
+💻 Programming Language
+Python
+
+📚 Libraries
+Pandas
+NumPy
+OpenCV
+Matplotlib
+TensorFlow
+OS (file handling)
+Random
+
+🧪 Development Environment
+Jupyter Notebook
